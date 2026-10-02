@@ -138,8 +138,6 @@ We welcome contributions to the Knight-Combat-JOGL-Game! If you're interested in
 
 This project currently has **no specified license**.
 
-It is recommended to add a license file (e.g., MIT, Apache 2.0, GPLv3) to the repository to clarify how others can use, distribute, and contribute to your project. Without a license, all rights are reserved by the copyright holder, and others cannot legally use or modify your work.
-
 ---
 
 ## Acknowledgments
