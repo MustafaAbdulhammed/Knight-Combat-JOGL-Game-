@@ -99,7 +99,7 @@ The game offers built-in AI difficulty settings to tailor your single-player exp
     *   **Passive (Easy)**
     *   **Balanced (Medium)**
     *   **Aggressive (Hard)**
-    *   *Note*: The method for selecting these difficulty levels (e.g., in-game menu, command-line argument, configuration file) is not explicitly detailed but expected to be part of the game's interface.
+    *   *Note*: The difficulty increases when triumphed in Singleplayer.
 
 ---
 
